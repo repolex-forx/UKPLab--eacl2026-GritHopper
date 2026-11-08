@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/eacl2026-GritHopper/commit/e1c89abca1e7a1154d37f4833bb1f77fdaa54d31",
       "git:hexsha": "e1c89abca1e7a1154d37f4833bb1f77fdaa54d31",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
